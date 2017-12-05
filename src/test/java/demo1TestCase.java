@@ -5,7 +5,7 @@ import org.testng.*;
 public class demo1TestCase{
         @Test
         public void testcase1(){
-           Assert.assertTrue(true);
+           Assert.assertTrue(false);
            System.out.println("testcase1");
         }
         @Test
