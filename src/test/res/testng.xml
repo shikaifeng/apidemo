@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <suite name="apiDemo" parallel="false">
-    <test name="apiDemo">
+    <test name="接口测试demo">
         <!--<packages>-->
         <!--<package name="com.testproj.Demo"/>-->
         <!--</packages>-->
