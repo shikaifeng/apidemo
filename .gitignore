@@ -18,5 +18,6 @@
 *.tar.gz
 *.rar
 
+#忽略文件夹
 allure-results/
 target/
