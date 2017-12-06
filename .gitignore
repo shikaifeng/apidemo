@@ -21,3 +21,5 @@
 #忽略文件夹
 allure-results/
 target/
+.idea/workspace.xml
+
